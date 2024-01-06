@@ -1,4 +1,4 @@
-package your_age
+package yourAge
 
 import "time"
 
